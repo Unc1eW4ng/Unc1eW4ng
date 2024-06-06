@@ -8,4 +8,4 @@ A sophomore in ZheJiang University major in computer science supervised by Prof.
 
 2024 ASC student supercomputer challenge second class prize
 
-2024 ASC student supercomputer challenge rank 5 in online group
+2024 ISC student supercomputer challenge rank 5 in online group
