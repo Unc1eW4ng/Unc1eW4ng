@@ -10,6 +10,3 @@ A sophomore in ZheJiang University major in computer science supervised by Prof.
 
 2024 ISC student supercomputer challenge rank 5 in online group
 
-## Full Publication List
-
-AudioLCM ACM Multimedia 2024 https://github.com/Text-to-Audio/AudioLCM
