@@ -4,7 +4,7 @@ A sophomore in ZheJiang University major in computer science supervised by Prof.
 
 ## Selected Honors Awarded
 
-2023、2024 Chinese National Scholarship
+2023 2024 Chinese National Scholarship
 
 2024 ASC student supercomputer challenge second class prize
 
