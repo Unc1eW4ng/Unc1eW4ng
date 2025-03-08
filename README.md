@@ -1,5 +1,5 @@
 # Jialei Wang
-A sophomore in ZheJiang University major in computer science. Participate in ZJUSCT in fresh year learning HPC knowledge. Dive into Generative AI（TTS,TTA）now.
+A sophomore in ZheJiang University major in computer science. Participate in ZJUSCT in fresh year learning HPC knowledge. Dive into Generative AI now.
 
 
 ## Selected Honors Awarded
