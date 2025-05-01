@@ -1,2 +1,2 @@
 # Jialei Wang
-A sophomore in ZheJiang University majoring in computer science.
+A sophomore at Zhejiang University majoring in computer science.
